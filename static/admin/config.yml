@@ -4,7 +4,7 @@ backend:
 
 media_folder: src/images # folder where user uploaded files should go
 public_folder: /images
-
+publish_mode: editorial_workflow
 search: false
 
 slug:
