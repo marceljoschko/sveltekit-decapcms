@@ -1,9 +1,9 @@
 ---
-title: test
+title: blue
 description: test
 image: /images/demo-image.jpg
 draft: false
-optional: ''
+optional: ""
 ---
 
 # This is a heading
