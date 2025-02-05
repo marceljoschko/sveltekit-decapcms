@@ -1,9 +1,9 @@
 ---
-title: blue
-description: test
+title: This is a Title2
+description: This is a description
 image: /images/demo-image.jpg
 draft: false
-optional: ""
+optional: ''
 ---
 
 # This is a heading
